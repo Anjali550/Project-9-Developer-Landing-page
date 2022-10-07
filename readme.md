@@ -1,6 +1,6 @@
 ## 🔗Project 9 Link
 
-
+https://project-9-live-link.netlify.app/
 
 ## ✨ Project-9: Developer Landing Page ✨
 
@@ -14,9 +14,7 @@ This assignment is written in **HTML5 and CSS3** which is given in **"JavaScript
 
 ## 📌 Screenshot
 
-
 <br>
-
 
 ![Screenshot](./asset/screenshots/1.png "Template Screenshot")
 ![Screenshot](./asset/screenshots/2.png "Template Screenshot")
@@ -41,4 +39,3 @@ This assignment is written in **HTML5 and CSS3** which is given in **"JavaScript
 ## 📌 Acknowledgments
 
 - Course Instructor - [Hitesh Choudhary](https://github.com/hiteshchoudhary)
-
